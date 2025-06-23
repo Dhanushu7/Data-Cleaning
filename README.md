@@ -1,7 +1,7 @@
 Medical Appointment No-Shows – Data Cleaning with Pandas
  
 This project is all about cleaning and preparing a real-world dataset for analysis. I used the Medical Appointment No-Shows dataset from Kaggle, which records patient appointments in Brazil and whether they showed up or not. This kind of data is super helpful for understanding behavior patterns in healthcare.
-
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
 About the Dataset
 Source: Kaggle – Medical Appointment No Shows
 
